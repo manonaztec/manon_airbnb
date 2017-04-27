@@ -1,0 +1,29 @@
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  background: #F6F5F5;
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: Open-sans, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+.text-center {
+  background-color: #C0D9E5;
+  color: white;
+  text-align: center;
+  font-family: Helvetica;
+  margin: 0px;
+  padding: 25px;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}

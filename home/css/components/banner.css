@@ -1,0 +1,20 @@
+/* Your banner CSS code here */
+.banner {
+    color: white;
+    text-align: center;
+    height: 100vh;
+    background: linear-gradient(-225deg, rgba(0,101,168,0.3) 0%, rgba(0,36,61,0.3) 50%), url('../../images/background_2.jpg');
+    background-size: cover !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.banner p {
+    font-size: 25px;
+    font-weight: lighter;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 250px;
+  }
+
